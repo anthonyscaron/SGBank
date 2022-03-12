@@ -1,0 +1,11 @@
+C:\Bootcamp\Repos\online-net-2021-anthonyscaron\Classwork\Badge2\SGBank.BLL\bin\Debug\SGBank.BLL.dll
+C:\Bootcamp\Repos\online-net-2021-anthonyscaron\Classwork\Badge2\SGBank.BLL\bin\Debug\SGBank.BLL.pdb
+C:\Bootcamp\Repos\online-net-2021-anthonyscaron\Classwork\Badge2\SGBank.BLL\bin\Debug\SGBank.Data.dll
+C:\Bootcamp\Repos\online-net-2021-anthonyscaron\Classwork\Badge2\SGBank.BLL\bin\Debug\SGBank.Models.dll
+C:\Bootcamp\Repos\online-net-2021-anthonyscaron\Classwork\Badge2\SGBank.BLL\bin\Debug\SGBank.Data.pdb
+C:\Bootcamp\Repos\online-net-2021-anthonyscaron\Classwork\Badge2\SGBank.BLL\bin\Debug\SGBank.Models.pdb
+C:\Bootcamp\Repos\online-net-2021-anthonyscaron\Classwork\Badge2\SGBank.BLL\obj\Debug\SGBank.BLL.csproj.AssemblyReference.cache
+C:\Bootcamp\Repos\online-net-2021-anthonyscaron\Classwork\Badge2\SGBank.BLL\obj\Debug\SGBank.BLL.csproj.CoreCompileInputs.cache
+C:\Bootcamp\Repos\online-net-2021-anthonyscaron\Classwork\Badge2\SGBank.BLL\obj\Debug\SGBank.BLL.csproj.CopyComplete
+C:\Bootcamp\Repos\online-net-2021-anthonyscaron\Classwork\Badge2\SGBank.BLL\obj\Debug\SGBank.BLL.dll
+C:\Bootcamp\Repos\online-net-2021-anthonyscaron\Classwork\Badge2\SGBank.BLL\obj\Debug\SGBank.BLL.pdb

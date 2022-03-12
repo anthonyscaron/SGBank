@@ -1,0 +1,17 @@
+C:\Bootcamp\Repos\online-net-2021-anthonyscaron\Classwork\Badge2\SGBank.UI\bin\Debug\SGBank.UI.exe.config
+C:\Bootcamp\Repos\online-net-2021-anthonyscaron\Classwork\Badge2\SGBank.UI\bin\Debug\SGBank.UI.exe
+C:\Bootcamp\Repos\online-net-2021-anthonyscaron\Classwork\Badge2\SGBank.UI\bin\Debug\SGBank.UI.pdb
+C:\Bootcamp\Repos\online-net-2021-anthonyscaron\Classwork\Badge2\SGBank.UI\bin\Debug\SGBank.BLL.dll
+C:\Bootcamp\Repos\online-net-2021-anthonyscaron\Classwork\Badge2\SGBank.UI\bin\Debug\SGBank.Models.dll
+C:\Bootcamp\Repos\online-net-2021-anthonyscaron\Classwork\Badge2\SGBank.UI\bin\Debug\SGBank.BLL.pdb
+C:\Bootcamp\Repos\online-net-2021-anthonyscaron\Classwork\Badge2\SGBank.UI\bin\Debug\SGBank.Models.pdb
+C:\Bootcamp\Repos\online-net-2021-anthonyscaron\Classwork\Badge2\SGBank.UI\obj\Debug\SGBank.UI.csproj.AssemblyReference.cache
+C:\Bootcamp\Repos\online-net-2021-anthonyscaron\Classwork\Badge2\SGBank.UI\obj\Debug\SGBank.UI.csproj.CoreCompileInputs.cache
+C:\Bootcamp\Repos\online-net-2021-anthonyscaron\Classwork\Badge2\SGBank.UI\obj\Debug\SGBank.UI.csproj.CopyComplete
+C:\Bootcamp\Repos\online-net-2021-anthonyscaron\Classwork\Badge2\SGBank.UI\obj\Debug\SGBank.UI.exe
+C:\Bootcamp\Repos\online-net-2021-anthonyscaron\Classwork\Badge2\SGBank.UI\obj\Debug\SGBank.UI.pdb
+C:\Bootcamp\Repos\online-net-2021-anthonyscaron\Classwork\Badge2\SGBank.UI\bin\Debug\SGBank.Data.dll
+C:\Bootcamp\Repos\online-net-2021-anthonyscaron\Classwork\Badge2\SGBank.UI\bin\Debug\SGBank.Data.pdb
+C:\Bootcamp\Repos\online-net-2021-anthonyscaron\Classwork\Badge2\SGBank.UI\bin\Debug\Data\Accounts.txt
+C:\Bootcamp\Repos\online-net-2021-anthonyscaron\Classwork\Badge2\SGBank.UI\bin\Debug\Data\AccountsSeed.txt
+C:\Bootcamp\Repos\online-net-2021-anthonyscaron\Classwork\Badge2\SGBank.UI\bin\Debug\Data\AccountsTest.txt
